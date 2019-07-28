@@ -1,5 +1,5 @@
 
-public class Interval {
+public class Bisection {
 	
 	double initial_value; /// Initial value of the root interval.
 	double final_value; /// Final value of the root interval.
